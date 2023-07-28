@@ -1,3 +1,2 @@
-﻿# CSI_Summer_Intern
-# CSI_Summer_Intern
+﻿here is the live demo link of our blog app:
 https://blogappcsi.netlify.app/login
